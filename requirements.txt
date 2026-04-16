@@ -1,0 +1,5 @@
+streamlit
+google-play-scraper
+requests
+pandas
+xlsxwriter
